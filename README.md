@@ -1,5 +1,5 @@
 # python-exercise
-#### This is repo is dedicated to my python execise programs that i wrote to enhance my skills in python programming. I'm an absolute noob, so, practice makes perfect.
+### This is repo is dedicated to my python execise programs that i wrote to enhance my skills in python programming. I'm an absolute noob, so, practice makes perfect.
 ---
 ## boringcovid
 #### เป็น script ที่ดึงข้อมูลประจำวันของ Covid-19 แล้วเอามา generate เป็นไฟล์ docx
