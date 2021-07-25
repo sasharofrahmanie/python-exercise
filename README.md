@@ -9,4 +9,4 @@ git clone https://github.com/sasharofrahmanie/python-exercise.git
 cd python-exercise/boringcovid
 python3 covidlenlen.py
 ```
-#### อาจต้องโหลด Library อย่า docxtpl, json และอื่นๆ ที่ใช้ใน script เพื่อที่จะรันได้ `pip install` ได้เลย!!!
+#### อาจต้องโหลด Library อย่าง docxtpl, json และอื่นๆ ที่ใช้ใน script เพื่อที่จะรันได้ `pip install` ได้เลย!!!
